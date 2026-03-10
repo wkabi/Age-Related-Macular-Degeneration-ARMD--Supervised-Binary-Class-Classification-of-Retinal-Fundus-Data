@@ -1,4 +1,4 @@
-# Age-Related-Macular-Degeneration-ARMD--Supervised-Binary-Class-Classification-of-Retinal-Fundus-Data
+# Age-Related-Macular-Degeneration-ARMD-Supervised-Binary-Class-Classification-of-Retinal-Fundus-Data
 This repository will help you to train, validate and test ARMD AI model for binary-class classification using retinal fundus images by employing deep learning (DL) methodology. 
 
 It can also be adopted to train, validate and test any AI model for binary-class classification using 2D/3D data.
